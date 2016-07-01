@@ -1,2 +1,2 @@
 # JAVA
-Java exercise
+ESERCIZI JAVA
